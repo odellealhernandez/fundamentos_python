@@ -8,6 +8,8 @@ Este espacio funciona como contenedor principal para todos los recursos académi
 * **Grupo:** G01
 * **Profesor:** Andrés Mena Abarca
 
+### ODEL LEAL HERNANDEZ
+
 ---
 
 ## 🎯 Objetivos del Repositorio
